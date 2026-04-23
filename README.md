@@ -30,9 +30,7 @@ college_predictor/
 
 🚀 How It Works
 
-User enters:
-
-Rank
+User enters: Rank
 
 Region (AU / SVU / SW)
 
