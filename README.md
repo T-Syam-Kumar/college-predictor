@@ -17,8 +17,9 @@ Features
 -  Clean Streamlit UI
 
 -  Deployed online using Streamlit Cloud
----
+
 🗂️ Project Structure
+
 college_predictor/
 │
 ├── app.py                  # Streamlit UI
@@ -27,7 +28,7 @@ college_predictor/
 ├── APEAMCET2024_FINAL.csv  # Previous year cutoff dataset
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
----
+
 🚀 How It Works
 
 User enters: Rank
