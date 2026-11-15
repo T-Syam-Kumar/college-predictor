@@ -18,7 +18,7 @@ A Streamlit-based web application that predicts eligible colleges and branches f
 
 -  Deployed online using Streamlit Cloud
 
-🗂️ Project Structure
+### 🗂️ Project Structure
 
 college_predictor/
 │
