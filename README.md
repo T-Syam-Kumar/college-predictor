@@ -1,8 +1,8 @@
-## APEAMCET College & Branch Predictor
+# APEAMCET College & Branch Predictor
 
 A Streamlit-based web application that predicts eligible colleges and branches for APEAMCET aspirants based on their rank, region, gender, and caste using previous year cutoff data.
 
-Features
+## Features
 
 -  Predict expected colleges & branches
 
@@ -31,24 +31,24 @@ college_predictor/
 
 ## How It Works
 
-User enters: Rank
+- User enters: Rank
 
-Region (AU / SVU / SW)
+- Region (AU / SVU / SW)
 
-Gender (BOYS / GIRLS)
+- Gender (BOYS / GIRLS)
 
-Caste (OC / SC / ST / BCA / BCB / BCC / BCD / BCE / OC_EWS)
+- Caste (OC / SC / ST / BCA / BCB / BCC / BCD / BCE / OC_EWS)
 
-Preferred College (optional)
+- Preferred College (optional)
 
-Preferred Branch (optional)
+- Preferred Branch (optional)
 
-System:
+## System:
 
-Filters previous year cutoffs
+- Filters previous year cutoffs
 
-Shows expected colleges & branches
+- Shows expected colleges & branches
 
-Checks feasibility of selected college + branch
+- Checks feasibility of selected college + branch
 
-If not feasible → shows Top 5 alternatives
+- If not feasible → shows Top 5 alternatives
