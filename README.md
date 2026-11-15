@@ -20,6 +20,7 @@ A Streamlit-based web application that predicts eligible colleges and branches f
 
 ### 🗂️ Project Structure
 
+```text
 college_predictor/
 │
 ├── app.py                  # Streamlit UI
@@ -28,6 +29,7 @@ college_predictor/
 ├── APEAMCET2024_FINAL.csv  # Previous year cutoff dataset
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
+```
 
 ## How It Works
 
