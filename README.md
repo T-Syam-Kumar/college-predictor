@@ -1,4 +1,4 @@
-# APEAMCET College & Branch Predictor
+# AP-EAMCET College & Branch Predictor
 
 A Streamlit-based web application that predicts eligible colleges and branches for APEAMCET aspirants based on their rank, region, gender, and caste using previous year cutoff data. 
 
